@@ -1,6 +1,6 @@
 const { readdirSync } = require('fs');
 const slashCommands = [];
-const guildID = "REPLACE_WITH_GUILD_ID";
+const guildID = "954143786114646016";
 
 module.exports = (client) => {
     let count = 0;
